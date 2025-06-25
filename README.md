@@ -21,7 +21,7 @@ A Python script to detect potential keyloggers on Windows systems by identifying
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/keylogger-detector.git 
+git clone [https://github.com/Kushalava917/keylogger-detector.git](https://github.com/Kushalava917/KeyLoggerTool.git) 
 cd keylogger-detector
 ```
 2. Install Dependencies
